@@ -1,3 +1,10 @@
+/*++
+
+Copyright (c) 2017 - 2018, Comae Technologies DMCC
+
+--*/
+
+
 #pragma once
 
 #include "stdafx.h"
