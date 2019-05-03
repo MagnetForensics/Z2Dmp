@@ -31,7 +31,7 @@
     <ProjectGuid>{4F134C15-31D4-44B7-AD10-E90311669D6C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Z2Dmp</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
